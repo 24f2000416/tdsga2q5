@@ -19,7 +19,7 @@ app.add_middleware(
 # ----------------------------
 # API Key
 # ----------------------------
-API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjI0ZjIwMDA0MTZAZHMuc3R1ZHkuaWl0bS5hYy5pbiIsImlhdCI6MTc4MzQ5ODU2NywiaXNzIjoiaHR0cHM6Ly9haXBpcGUub3JnIiwiYXVkIjoiYWlwaXBlLWFwaSIsImV4cCI6MTc4NDEwMzM2N30.eLi_41anlHD2e2bEV4DDaEKh27Nzz0eflbwguKpCoUw"
+API_KEY = "ak_g9ygql8ygi32f8tqstpa6yry"
 
 # IMPORTANT:
 # Replace this with YOUR logged-in email.
